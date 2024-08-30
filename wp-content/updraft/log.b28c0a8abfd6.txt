@@ -1,0 +1,329 @@
+0000.000 (0) Opened log file at time: Fri, 30 Aug 2024 12:37:54 +0000 on http://wordi.local
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.4 WP: 6.6.1 PHP: 8.1.29 (cgi-fcgi, Windows NT JUSTINE 10.0 build 22631 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: fr_FR Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7.6M | 8M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 1592649.5 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: weekly)
+0000.006 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.011 (0) Set semaphore last lock (fd) time to 2024-08-30 12:37:54
+0000.012 (0) Semaphore lock (fd) complete
+0000.015 (0) Backup run: resumption=0, nonce=b28c0a8abfd6, file_nonce=b28c0a8abfd6 begun at=1725021474 (0s ago), job type=backup
+0000.017 (0) Scheduling a resumption (1) after 300 seconds (1725021774) in case this run gets aborted
+0000.019 (0) Checking if we have a zip executable available
+0000.022 (0) Creation of backups of directories: beginning
+0000.025 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.377 (0) Total entities for the zip file: 743 directories, 4156 files (0 skipped as non-modified), 64 MB
+0000.393 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.406 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.420 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.433 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.447 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.461 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.474 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.488 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 4156 files batched, 879 (879) added so far); re-opening (prior size: 0 KB)
+0001.521 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 14861.9 KB/s)
+0001.523 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.7246060371399, normalised_time=1.7225277202887, max_time=1.5216641426086, data points known=1, old_max_bytes=26214400, new_max_bytes=91311389)
+0001.532 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 900 files added (on-disk size: 9106.2 KB)
+0001.546 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1000 files added (on-disk size: 9106.2 KB)
+0001.560 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1100 files added (on-disk size: 9106.2 KB)
+0001.575 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1200 files added (on-disk size: 9106.2 KB)
+0001.591 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1300 files added (on-disk size: 9106.2 KB)
+0001.605 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1400 files added (on-disk size: 9106.2 KB)
+0001.619 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1500 files added (on-disk size: 9106.2 KB)
+0001.633 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1600 files added (on-disk size: 9106.2 KB)
+0001.647 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1700 files added (on-disk size: 9106.2 KB)
+0001.660 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1800 files added (on-disk size: 9106.2 KB)
+0001.671 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.3 MB, 4156 files batched, 1001 (1880) added so far); re-opening (prior size: 9106.2 KB)
+0002.079 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 1900 files added (on-disk size: 11919.4 KB)
+0002.093 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2000 files added (on-disk size: 11919.4 KB)
+0002.107 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2100 files added (on-disk size: 11919.4 KB)
+0002.121 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2200 files added (on-disk size: 11919.4 KB)
+0002.136 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2300 files added (on-disk size: 11919.4 KB)
+0002.149 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2400 files added (on-disk size: 11919.4 KB)
+0002.164 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2500 files added (on-disk size: 11919.4 KB)
+0002.177 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2600 files added (on-disk size: 11919.4 KB)
+0002.191 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2700 files added (on-disk size: 11919.4 KB)
+0002.205 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2800 files added (on-disk size: 11919.4 KB)
+0002.216 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.5 MB, 4156 files batched, 1001 (2881) added so far); re-opening (prior size: 11919.4 KB)
+0002.798 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 2900 files added (on-disk size: 18251.8 KB)
+0002.812 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3000 files added (on-disk size: 18251.8 KB)
+0002.826 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3100 files added (on-disk size: 18251.8 KB)
+0002.840 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3200 files added (on-disk size: 18251.8 KB)
+0002.854 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3300 files added (on-disk size: 18251.8 KB)
+0002.868 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3400 files added (on-disk size: 18251.8 KB)
+0002.882 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3500 files added (on-disk size: 18251.8 KB)
+0002.895 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3600 files added (on-disk size: 18251.8 KB)
+0002.908 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3700 files added (on-disk size: 18251.8 KB)
+0002.922 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3800 files added (on-disk size: 18251.8 KB)
+0002.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.2 MB, 4156 files batched, 1001 (3882) added so far); re-opening (prior size: 18251.8 KB)
+0003.735 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 3900 files added (on-disk size: 23228.4 KB)
+0003.749 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 4000 files added (on-disk size: 23228.4 KB)
+0003.763 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.tmp: 4100 files added (on-disk size: 23228.4 KB)
+0003.897 (0) Creating zip file manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.list-temp.tmp)
+0003.906 (0) Successfully created zip file manifest (size: 355809)
+0004.012 (0) Created plugins zip (0) - 23554.6 KB in 4 s (5912.2 KB/s) (sha1: 6db259201b0c3188a784464a1ef65a434b39851c, sha256: 7225fec07d579e0662d7ce0324ea4b8c964984b82f25fae163a45999a3c3cf82)
+0004.017 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0004.018 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-2d43aeaec207332095e3a89e5f1af36d)
+0004.816 (0) Google Drive: quota usage: used=133.6 MB, total=15360 MB, available=15226.4 MB
+0004.818 (0) Google Drive: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip: Attempting to upload to Google Drive (into folder id: 1VVJwh_P7OhG1YC9QoXh9XDn07UYyMcnX)
+0006.225 (0) Googledrive chunked upload: 4.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 9 / 12)
+0007.408 (0) Googledrive chunked upload: 13 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 9 / 12)
+0008.912 (0) Googledrive chunked upload: 30.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 9 / 12)
+0011.450 (0) Googledrive chunked upload: 65.2 % uploaded (15728640)
+0013.927 (0) Googledrive chunked upload: 100 % uploaded (24117248 - increasing chunk size to 16384 KB - memory usage: 9 / 12)
+0014.981 (0) Googledrive chunked upload: 100 % uploaded (24117248)
+0014.984 (0) Google Drive: OK: Archive backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip uploaded in 10.16 seconds
+0014.985 (0) Recording as successfully uploaded: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip
+0014.988 (0) Deleting local file: backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip: OK
+0014.993 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.059 (0) Total entities for the zip file: 89 directories, 815 files (0 skipped as non-modified), 3.8 MB
+0015.074 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.089 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.102 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.116 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0015.130 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0015.143 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0015.157 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0015.171 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0015.277 (0) Creating zip file manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.list-temp.tmp)
+0015.281 (0) Successfully created zip file manifest (size: 67784)
+0015.296 (0) Created themes zip (0) - 2421.3 KB in 0.3 s (8050.5 KB/s) (sha1: 629e8cd7a5e3077f307aa9378cb742b8d8ea8067, sha256: 259fabd98b1a4f9bcd6b42fbb91f1423c2e27606035a9af5b776fdd3434bb27e)
+0015.300 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0015.302 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-2d43aeaec207332095e3a89e5f1af36d)
+0015.520 (0) Google Drive: quota usage: used=156.6 MB, total=15360 MB, available=15203.4 MB
+0015.522 (0) Google Drive: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip: Attempting to upload to Google Drive (into folder id: 1VVJwh_P7OhG1YC9QoXh9XDn07UYyMcnX)
+0016.575 (0) Googledrive chunked upload: 42.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 8.3 / 10)
+0018.171 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0018.174 (0) Google Drive: OK: Archive backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip uploaded in 2.65 seconds
+0018.175 (0) Recording as successfully uploaded: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip
+0018.178 (0) Deleting local file: backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip: OK
+0018.182 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0018.183 (0) Looking for candidates to backup in: C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads
+0018.184 (0) finding files: .htaccess: adding to list (1)
+0018.185 (0) finding files: 2024: adding to list (2)
+0018.186 (0) finding files: wpforms: adding to list (3)
+0018.187 (0) finding files: wpo: adding to list (4)
+0018.188 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0018.209 (0) Total entities for the zip file: 8 directories, 262 files (0 skipped as non-modified), 114.2 MB
+0018.224 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0018.237 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 87.1 MB added on this batch (87.3 MB, 262 files batched, 199 (199) added so far); re-opening (prior size: 0 KB)
+0018.500 (0) A useful amount of data was added after this amount of zip processing: 0.7 s (normalised: 0.7 s, rate: 127054.8 KB/s)
+0018.502 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.70354390144348, normalised_time=0.70183316397306, max_time=18.501152992249, data points known=1, old_max_bytes=91311389, new_max_bytes=209715200)
+0018.505 (0) Zip: backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip.tmp: 200 files added (on-disk size: 89376.4 KB)
+0018.774 (0) Creating zip file manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip.list-temp.tmp)
+0018.776 (0) Successfully created zip file manifest (size: 13856)
+0019.255 (0) Created uploads zip (0) - 111503.2 KB in 1.1 s (104787.4 KB/s) (sha1: 97e79d0dd120ca7e3539761c10c8ef2f428fd7f8, sha256: 97dd6b5e651c46203a8f062b81e18517a69d6052f6a5a0d56f5eca2ef2e1cd35)
+0019.259 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0019.260 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-2d43aeaec207332095e3a89e5f1af36d)
+0019.543 (0) Google Drive: quota usage: used=159 MB, total=15360 MB, available=15201 MB
+0019.544 (0) Google Drive: backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip: Attempting to upload to Google Drive (into folder id: 1VVJwh_P7OhG1YC9QoXh9XDn07UYyMcnX)
+0020.656 (0) Googledrive chunked upload: 0.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 8.3 / 10)
+0021.546 (0) Googledrive chunked upload: 2.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 8.3 / 10)
+0023.332 (0) Googledrive chunked upload: 6.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 8.3 / 10)
+0026.316 (0) Googledrive chunked upload: 13.8 % uploaded (15728640)
+0028.835 (0) Googledrive chunked upload: 21.1 % uploaded (24117248)
+0031.227 (0) Googledrive chunked upload: 28.5 % uploaded (32505856 - increasing chunk size to 16384 KB - memory usage: 8.3 / 10)
+0035.651 (0) Googledrive chunked upload: 43.2 % uploaded (49283072)
+0040.230 (0) Googledrive chunked upload: 57.9 % uploaded (66060288)
+0044.608 (0) Googledrive chunked upload: 72.6 % uploaded (82837504)
+0048.772 (0) Googledrive chunked upload: 87.2 % uploaded (99614720)
+0053.746 (0) Googledrive chunked upload: 100 % uploaded (99614720)
+0053.750 (0) Google Drive: OK: Archive backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip uploaded in 34.2 seconds
+0053.751 (0) Recording as successfully uploaded: backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip
+0053.758 (0) Deleting local file: backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip: OK
+0053.761 (0) No backup of mu-plugins: excluded by user's options
+0053.763 (0) Beginning backup of other directories found in the content directory (index: 0)
+0053.764 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0053.765 (0) Looking for candidates to backup in: C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content
+0053.766 (0) finding files: advanced-cache.php: adding to list (1)
+0053.767 (0) finding files: cache: skipping: excluded by options
+0053.768 (0) finding files: index.php: adding to list (2)
+0053.769 (0) finding files: languages: adding to list (3)
+0053.770 (0) finding files: plugins: skipping: this is the plugins directory
+0053.772 (0) finding files: themes: skipping: this is the themes directory
+0053.773 (0) finding files: updraft: skipping: this is the updraft directory
+0053.775 (0) finding files: upgrade: skipping: excluded by options
+0053.776 (0) finding files: uploads: skipping: this is the uploads directory
+0053.778 (0) finding files: wpo-cache: adding to list (4)
+0053.790 (0) Total entities for the zip file: 5 directories, 93 files (0 skipped as non-modified), 6.4 MB
+0054.146 (0) Creating zip file manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip.list-temp.tmp)
+0054.148 (0) Successfully created zip file manifest (size: 5555)
+0054.161 (0) Created others zip (0) - 1846.1 KB in 0.4 s (4865.3 KB/s) (sha1: 5df6722c178fe7bcece157a56efc2b0ca327c81c, sha256: bb38a10528d19eeabfd0254351ba4fbd0a4c3020f3db4c6e210db14d5c6e1b50)
+0054.165 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0054.166 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-2d43aeaec207332095e3a89e5f1af36d)
+0054.409 (0) Google Drive: quota usage: used=267.9 MB, total=15360 MB, available=15092.1 MB
+0054.410 (0) Google Drive: backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip: Attempting to upload to Google Drive (into folder id: 1VVJwh_P7OhG1YC9QoXh9XDn07UYyMcnX)
+0055.378 (0) Googledrive chunked upload: 55.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 8.2 / 10)
+0056.553 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0056.556 (0) Google Drive: OK: Archive backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip uploaded in 2.14 seconds
+0056.557 (0) Recording as successfully uploaded: backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip
+0056.560 (0) Deleting local file: backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip: OK
+0056.566 (0) Saving backup status to database (elements: 8)
+0056.568 (0) Beginning creation of database dump (WordPress DB)
+0056.569 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0056.579 (0) Table wp_options: Total expected rows (via COUNT): 333
+0056.580 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.617 (0) Table wp_options: Rows added in this batch (next record: 544): 329 (uncompressed bytes in this segment=1468557) in 0.04 seconds
+0056.623 (0) Table wp_options: finishing file(s) (2, 354.9 KB)
+0056.627 (0) Table wp_users: Total expected rows (via COUNT): 1
+0056.628 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.630 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1378) in 0.00 seconds
+0056.635 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0056.639 (0) Table wp_usermeta: Total expected rows (via COUNT): 23
+0056.640 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.642 (0) Table wp_usermeta: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=2493) in 0.00 seconds
+0056.647 (0) Table wp_usermeta: finishing file(s) (2, 1.2 KB)
+0056.651 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 6
+0056.652 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.654 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 101): 6 (uncompressed bytes in this segment=4319) in 0.00 seconds
+0056.659 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.1 KB)
+0056.662 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0056.665 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=624) in 0.00 seconds
+0056.669 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0056.672 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0056.673 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.675 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=706) in 0.00 seconds
+0056.680 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0056.684 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 14
+0056.685 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.687 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 15): 14 (uncompressed bytes in this segment=2006) in 0.00 seconds
+0056.693 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.6 KB)
+0056.699 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0056.702 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0056.707 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0056.711 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0056.712 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.714 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2152) in 0.00 seconds
+0056.719 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0056.722 (0) Table wp_links: Total expected rows (via COUNT): 0
+0056.725 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.00 seconds
+0056.729 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0056.734 (0) Table wp_postmeta: Total expected rows (via COUNT): 144
+0056.735 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.738 (0) Table wp_postmeta: Rows added in this batch (next record: 171): 144 (uncompressed bytes in this segment=41089) in 0.01 seconds
+0056.743 (0) Table wp_postmeta: finishing file(s) (2, 4.6 KB)
+0056.752 (0) Table wp_posts: Total expected rows (via COUNT): 95
+0056.753 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.775 (0) Table wp_posts: Rows added in this batch (next record: 101): 95 (uncompressed bytes in this segment=988634) in 0.03 seconds
+0056.781 (0) Table wp_posts: finishing file(s) (2, 182.7 KB)
+0056.784 (0) Table wp_term_relationships: Total expected rows (approximate): 14
+0056.787 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 14 (uncompressed bytes in this segment=871) in 0.00 seconds
+0056.791 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0056.796 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 7
+0056.797 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.799 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1138) in 0.01 seconds
+0056.806 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0056.810 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0056.812 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0056.818 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0056.821 (0) Table wp_terms: Total expected rows (via COUNT): 7
+0056.822 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.825 (0) Table wp_terms: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=942) in 0.00 seconds
+0056.829 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0056.834 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+0056.836 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=676) in 0.00 seconds
+0056.842 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0056.845 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+0056.847 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=894) in 0.00 seconds
+0056.852 (0) Table wp_tm_tasks: finishing file(s) (2, 0.4 KB)
+0056.856 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+0056.857 (0) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=752) in 0.00 seconds
+0056.865 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0056.871 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0056.875 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.01 seconds
+0056.880 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0056.884 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0056.886 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1970) in 0.00 seconds
+0056.891 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0056.896 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 2
+0056.897 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.900 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=814) in 0.01 seconds
+0056.906 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0056.907 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/updraft/backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz (line 1925, C:\Users\Utilisateur\Local Sites\wordi\app\public\wp-content\plugins\updraftplus\backup.php)
+0056.908 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_options.table.tmpr545.gz (1/22/fopen): adding to final database dump
+0056.914 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_options.table.gz (2/22/fopen): adding to final database dump
+0056.915 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_users.table.tmpr2.gz (3/22/fopen): adding to final database dump
+0056.916 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_users.table.gz (4/22/fopen): adding to final database dump
+0056.917 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_usermeta.table.tmpr24.gz (5/22/fopen): adding to final database dump
+0056.918 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_usermeta.table.gz (6/22/fopen): adding to final database dump
+0056.919 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_actions.table.tmpr102.gz (7/22/fopen): adding to final database dump
+0056.920 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_actions.table.gz (8/22/fopen): adding to final database dump
+0056.921 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/22/fopen): adding to final database dump
+0056.922 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_claims.table.gz (10/22/fopen): adding to final database dump
+0056.923 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/22/fopen): adding to final database dump
+0056.924 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_groups.table.gz (12/22/fopen): adding to final database dump
+0056.925 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_logs.table.tmpr16.gz (13/22/fopen): adding to final database dump
+0056.926 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_actionscheduler_logs.table.gz (14/22/fopen): adding to final database dump
+0056.927 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_commentmeta.table.tmpr0.gz (15/22/fopen): adding to final database dump
+0056.928 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_commentmeta.table.gz (16/22/fopen): adding to final database dump
+0056.929 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_comments.table.tmpr2.gz (17/22/fopen): adding to final database dump
+0056.930 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_comments.table.gz (18/22/fopen): adding to final database dump
+0056.931 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_links.table.tmpr0.gz (19/22/fopen): adding to final database dump
+0056.932 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_links.table.gz (20/22/fopen): adding to final database dump
+0056.933 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_postmeta.table.tmpr172.gz (21/22/fopen): adding to final database dump
+0056.934 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_postmeta.table.gz (22/22/fopen): adding to final database dump
+0056.935 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_posts.table.tmpr102.gz (23/22/fopen): adding to final database dump
+0056.939 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_posts.table.gz (24/22/fopen): adding to final database dump
+0056.940 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_term_relationships.table.tmpr100001.gz (25/22/fopen): adding to final database dump
+0056.941 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_term_relationships.table.gz (26/22/fopen): adding to final database dump
+0056.942 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_term_taxonomy.table.tmpr8.gz (27/22/fopen): adding to final database dump
+0056.943 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_term_taxonomy.table.gz (28/22/fopen): adding to final database dump
+0056.944 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_termmeta.table.tmpr0.gz (29/22/fopen): adding to final database dump
+0056.945 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_termmeta.table.gz (30/22/fopen): adding to final database dump
+0056.946 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_terms.table.tmpr8.gz (31/22/fopen): adding to final database dump
+0056.947 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_terms.table.gz (32/22/fopen): adding to final database dump
+0056.948 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_tm_taskmeta.table.tmpr0.gz (33/22/fopen): adding to final database dump
+0056.949 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_tm_taskmeta.table.gz (34/22/fopen): adding to final database dump
+0056.950 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_tm_tasks.table.tmpr0.gz (35/22/fopen): adding to final database dump
+0056.951 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_tm_tasks.table.gz (36/22/fopen): adding to final database dump
+0056.952 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_logs.table.tmpr0.gz (37/22/fopen): adding to final database dump
+0056.953 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_logs.table.gz (38/22/fopen): adding to final database dump
+0056.954 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (39/22/fopen): adding to final database dump
+0056.955 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_payment_meta.table.gz (40/22/fopen): adding to final database dump
+0056.956 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_payments.table.tmpr0.gz (41/22/fopen): adding to final database dump
+0056.957 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_payments.table.gz (42/22/fopen): adding to final database dump
+0056.958 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_tasks_meta.table.tmpr4.gz (43/22/fopen): adding to final database dump
+0056.959 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db-table-wp_wpforms_tasks_meta.table.gz (44/22/fopen): adding to final database dump
+0056.962 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz: finished writing out complete database file (552.7 KB)
+0056.971 (0) Total database tables backed up: 22 (backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz, size: 566136, sha1: 717a37246e9687887d5cf73f15b2647d5a4a2010, sha256: 73aef7e8c2c3a03931da15731a17bcba44cf426904be4027002ba3954f0688e9)
+0056.976 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip: plugins: This file has already been successfully uploaded
+0056.977 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip: themes: This file has already been successfully uploaded
+0056.978 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip: uploads: This file has already been successfully uploaded
+0056.979 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip: others: This file has already been successfully uploaded
+0056.980 (0) backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0056.981 (0) Saving backup history. Total backup size: 136.6 MB
+0056.983 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0056.987 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0056.988 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-2d43aeaec207332095e3a89e5f1af36d)
+0057.329 (0) Google Drive: quota usage: used=269.7 MB, total=15360 MB, available=15090.3 MB
+0057.331 (0) Google Drive: backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz: Attempting to upload to Google Drive (into folder id: 1VVJwh_P7OhG1YC9QoXh9XDn07UYyMcnX)
+0058.995 (0) Googledrive chunked upload: 100 % uploaded
+0058.998 (0) Google Drive: OK: Archive backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz uploaded in 1.67 seconds
+0058.999 (0) Recording as successfully uploaded: backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz
+0059.002 (0) Deleting local file: backup_2024-08-30-1337_wordi_b28c0a8abfd6-db.gz: OK
+0059.004 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0059.005 (0) Number of backup sets in history: 2; groups (db): 1
+0059.006 (0) Examining (for databases) backup set with group_id=0, nonce=b28c0a8abfd6, datestamp=1725021474 (Aug 30 2024 12:37:54)
+0059.007 (0) This backup set is the backup set just made, so will not be deleted.
+0059.007 (0) Examining (for databases) backup set with group_id=0, nonce=52d1c405542f, datestamp=1725021273 (Aug 30 2024 12:34:33)
+0059.007 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0059.008 (0) Number of backup sets in history: 2; groups (files): 1
+0059.009 (0) Examining (for files) backup set with nonce=b28c0a8abfd6, datestamp=1725021474 (Aug 30 2024 12:37:54)
+0059.009 (0) This backup set is the backup set just made, so will not be deleted.
+0059.010 (0) This backup set is the backup set just made, so will not be deleted.
+0059.010 (0) This backup set is the backup set just made, so will not be deleted.
+0059.010 (0) This backup set is the backup set just made, so will not be deleted.
+0059.010 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0059.011 (0) Examining (for files) backup set with nonce=52d1c405542f, datestamp=1725021273 (Aug 30 2024 12:34:33)
+0059.011 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0059.011 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0059.014 (0) Resume backup (b28c0a8abfd6, 0): finish run
+0059.017 (0) Decremented the semaphore (fd) by 1
+0059.018 (0) Semaphore (fd) unlocked
+0059.019 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0059.023 (0) The backup succeeded and is now complete
+0059.024 (0) Deleting zip manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-plugins.zip.list.tmp)
+0059.025 (0) Deleting zip manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-themes.zip.list.tmp)
+0059.026 (0) Deleting zip manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-uploads.zip.list.tmp)
+0059.027 (0) Deleting zip manifest (backup_2024-08-30-1337_wordi_b28c0a8abfd6-others.zip.list.tmp)
+0059.028 (0) No email will/can be sent - the user has not configured an email address.
+0059.029 (0) La sauvegarde a réussi et est maintenant terminée

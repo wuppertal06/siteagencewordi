@@ -1,0 +1,226 @@
+[2024-08-30 12:07:19 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-08-30 12:07:19 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 12:07:19 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-08-30 12:07:19 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-08-30 12:07:19 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-08-30 12:07:19 : INFO] - Re_Smush_It_Task - Attachment ID : 23, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:07:19 : INFO] - File: agence-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:07:25 : INFO] - Backing up the original image - 2024/08/agence-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:07:33 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/agence-scaled.jpg.Le fichier a été compressé de 741.02 KB à 717.52 KB, en économisant 3.17 % à l’aide de WP-Optimize 
+[2024-08-30 12:07:33 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-08-30 12:07:33 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-08-30 12:07:33 : INFO] - Re_Smush_It_Task - Attachment ID : 24, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:07:33 : INFO] - File: apple-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:07:36 : INFO] - Backing up the original image - 2024/08/apple-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:07:41 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/apple-scaled.jpg.Le fichier a été compressé de 205.87 KB à 205.87 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:07:41 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-08-30 12:07:41 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-08-30 12:07:41 : INFO] - Re_Smush_It_Task - Attachment ID : 25, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:07:41 : INFO] - File: blog1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:07:45 : INFO] - Backing up the original image - 2024/08/blog1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:07:50 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/blog1-scaled.jpg.Le fichier a été compressé de 254.23 KB à 251.64 KB, en économisant 1.02 % à l’aide de WP-Optimize 
+[2024-08-30 12:07:50 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-08-30 12:07:50 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-08-30 12:07:50 : INFO] - Re_Smush_It_Task - Attachment ID : 26, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:07:50 : INFO] - File: blog2-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:07:54 : INFO] - Backing up the original image - 2024/08/blog2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:08:01 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/blog2-scaled.jpg.Le fichier a été compressé de 440.99 KB à 429.54 KB, en économisant 2.6 % à l’aide de WP-Optimize 
+[2024-08-30 12:08:01 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-08-30 12:08:01 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-08-30 12:08:01 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:08:01 : INFO] - File: blog3-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:08:05 : INFO] - Backing up the original image - 2024/08/blog3-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:08:12 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/blog3-scaled.jpg.Le fichier a été compressé de 475.09 KB à 457.10 KB, en économisant 3.79 % à l’aide de WP-Optimize 
+[2024-08-30 12:08:12 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-08-30 12:08:12 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-08-30 12:08:12 : INFO] - Re_Smush_It_Task - Attachment ID : 28, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:08:12 : INFO] - File: client-content-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:08:16 : INFO] - Backing up the original image - 2024/08/client-content-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:08:23 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/client-content-scaled.jpg.Le fichier a été compressé de 531.41 KB à 515.79 KB, en économisant 2.94 % à l’aide de WP-Optimize 
+[2024-08-30 12:08:23 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-08-30 12:08:23 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-08-30 12:08:23 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:08:23 : INFO] - File: lvmh-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:08:28 : INFO] - Backing up the original image - 2024/08/lvmh-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:08:35 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/lvmh-scaled.jpg.Le fichier a été compressé de 537.68 KB à 520.60 KB, en économisant 3.18 % à l’aide de WP-Optimize 
+[2024-08-30 12:08:35 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-08-30 12:08:35 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-08-30 12:08:35 : INFO] - Re_Smush_It_Task - Attachment ID : 30, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:08:35 : INFO] - File: lvmh2-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:08:39 : INFO] - Backing up the original image - 2024/08/lvmh2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:08:46 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/lvmh2-scaled.jpg.Le fichier a été compressé de 695.43 KB à 671.29 KB, en économisant 3.47 % à l’aide de WP-Optimize 
+[2024-08-30 12:08:46 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-08-30 12:08:46 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-08-30 12:08:46 : INFO] - Re_Smush_It_Task - Attachment ID : 31, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:08:46 : INFO] - File: tesla-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:08:50 : INFO] - Backing up the original image - 2024/08/tesla-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:08:51 : INFO] - A total of 8 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 12:08:51 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-30 12:08:51 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-30 12:08:51 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-30 12:08:51 : INFO] - Cleaning up tasks of type (smush). A total of 8 tasks will be deleted. 
+[2024-08-30 12:08:57 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/tesla-scaled.jpg.Le fichier a été compressé de 518.46 KB à 498.82 KB, en économisant 3.79 % à l’aide de WP-Optimize 
+[2024-08-30 12:08:57 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-08-30 12:08:57 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-08-30 12:08:57 : INFO] - Re_Smush_It_Task - Attachment ID : 32, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:08:57 : INFO] - File: tesla2-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:09:03 : INFO] - Backing up the original image - 2024/08/tesla2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:09:12 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/tesla2-scaled.jpg.Le fichier a été compressé de 1.08 MB à 1.03 MB, en économisant 4.65 % à l’aide de WP-Optimize 
+[2024-08-30 12:09:12 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-08-30 12:09:12 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-08-30 12:09:12 : INFO] - Re_Smush_It_Task - Attachment ID : 33, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:09:12 : INFO] - File: wordi.png, Compression quality: 92 
+[2024-08-30 12:09:13 : INFO] - Backing up the original image - 2024/08/wordi-updraft-pre-smush-original.png 
+[2024-08-30 12:09:14 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/wordi.png.Le fichier a été compressé de 247.48 KB à 67.75 KB, en économisant 72.63 % à l’aide de WP-Optimize 
+[2024-08-30 12:09:14 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-08-30 12:09:14 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-08-30 12:09:14 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:09:14 : INFO] - File: agence-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:09:19 : INFO] - Backing up the original image - 2024/08/agence-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:09:26 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/agence-1-scaled.jpg.Le fichier a été compressé de 741.02 KB à 717.52 KB, en économisant 3.17 % à l’aide de WP-Optimize 
+[2024-08-30 12:09:26 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-08-30 12:09:26 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-08-30 12:09:26 : INFO] - Re_Smush_It_Task - Attachment ID : 47, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:09:26 : INFO] - File: client-content-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:09:31 : INFO] - Backing up the original image - 2024/08/client-content-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:09:38 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/client-content-1-scaled.jpg.Le fichier a été compressé de 531.41 KB à 515.79 KB, en économisant 2.94 % à l’aide de WP-Optimize 
+[2024-08-30 12:09:38 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-08-30 12:09:38 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-08-30 12:09:38 : INFO] - Re_Smush_It_Task - Attachment ID : 50, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:09:38 : INFO] - File: apple-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:09:41 : INFO] - Backing up the original image - 2024/08/apple-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:09:46 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/apple-1-scaled.jpg.Le fichier a été compressé de 205.87 KB à 205.87 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:09:46 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-08-30 12:09:46 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-08-30 12:09:46 : INFO] - Re_Smush_It_Task - Attachment ID : 51, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:09:46 : INFO] - File: tesla-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:09:51 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 12:09:51 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-30 12:09:51 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-30 12:09:51 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-30 12:09:51 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2024-08-30 12:09:52 : INFO] - Backing up the original image - 2024/08/tesla-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:09:59 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/tesla-1-scaled.jpg.Le fichier a été compressé de 518.46 KB à 498.82 KB, en économisant 3.79 % à l’aide de WP-Optimize 
+[2024-08-30 12:09:59 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-08-30 12:09:59 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-08-30 12:09:59 : INFO] - Re_Smush_It_Task - Attachment ID : 53, Started on : August 30, 2024 12:07:19 
+[2024-08-30 12:09:59 : INFO] - File: lvmh-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:10:03 : INFO] - Backing up the original image - 2024/08/lvmh-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:10:10 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/lvmh-1-scaled.jpg.Le fichier a été compressé de 537.68 KB à 520.60 KB, en économisant 3.18 % à l’aide de WP-Optimize 
+[2024-08-30 12:10:10 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-08-30 12:10:10 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-30 12:10:10 : INFO] - Successfully processed the queue (smush). 16 tasks were processed out of 16. 
+[2024-08-30 12:10:10 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-30 12:10:10 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-08-30 12:10:11 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 12:10:11 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-08-30 12:10:11 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-08-30 12:10:11 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-08-30 12:10:11 : INFO] - Re_Smush_It_Task - Attachment ID : 23, Started on : August 30, 2024 12:10:10 
+[2024-08-30 12:10:11 : INFO] - File: agence-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:10:16 : INFO] - Backing up the original image - 2024/08/agence-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:10:21 : INFO] - A total of 16 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 12:10:21 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-30 12:10:21 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-30 12:10:21 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-30 12:10:24 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/agence-scaled.jpg.Le fichier a été compressé de 717.52 KB à 717.52 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:10:24 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-08-30 12:10:24 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-08-30 12:10:24 : INFO] - Re_Smush_It_Task - Attachment ID : 24, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:10:24 : INFO] - File: apple-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:10:27 : INFO] - Backing up the original image - 2024/08/apple-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:10:33 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/apple-scaled.jpg.Le fichier a été compressé de 205.87 KB à 205.87 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:10:33 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-08-30 12:10:33 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-08-30 12:10:33 : INFO] - Re_Smush_It_Task - Attachment ID : 25, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:10:33 : INFO] - File: blog1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:10:36 : INFO] - Backing up the original image - 2024/08/blog1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:10:42 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/blog1-scaled.jpg.Le fichier a été compressé de 251.64 KB à 251.64 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:10:42 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-08-30 12:10:42 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-08-30 12:10:42 : INFO] - Re_Smush_It_Task - Attachment ID : 26, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:10:42 : INFO] - File: blog2-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:10:46 : INFO] - Backing up the original image - 2024/08/blog2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:10:52 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/blog2-scaled.jpg.Le fichier a été compressé de 429.54 KB à 429.54 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:10:52 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-08-30 12:10:52 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-08-30 12:10:52 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:10:52 : INFO] - File: blog3-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:10:57 : INFO] - Backing up the original image - 2024/08/blog3-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:11:03 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/blog3-scaled.jpg.Le fichier a été compressé de 457.10 KB à 457.10 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:11:03 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-08-30 12:11:03 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-08-30 12:11:03 : INFO] - Re_Smush_It_Task - Attachment ID : 28, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:11:03 : INFO] - File: client-content-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:11:08 : INFO] - Backing up the original image - 2024/08/client-content-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:11:14 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/client-content-scaled.jpg.Le fichier a été compressé de 515.79 KB à 515.79 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:11:14 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-08-30 12:11:14 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-08-30 12:11:14 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:11:14 : INFO] - File: lvmh-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:11:19 : INFO] - Backing up the original image - 2024/08/lvmh-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:11:27 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/lvmh-scaled.jpg.Le fichier a été compressé de 520.60 KB à 520.60 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:11:27 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2024-08-30 12:11:27 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-08-30 12:11:27 : INFO] - Re_Smush_It_Task - Attachment ID : 30, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:11:27 : INFO] - File: lvmh2-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:11:31 : INFO] - Backing up the original image - 2024/08/lvmh2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:11:37 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/lvmh2-scaled.jpg.Le fichier a été compressé de 671.29 KB à 671.29 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:11:37 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2024-08-30 12:11:37 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2024-08-30 12:11:37 : INFO] - Re_Smush_It_Task - Attachment ID : 31, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:11:37 : INFO] - File: tesla-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:11:41 : INFO] - Backing up the original image - 2024/08/tesla-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:11:48 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/tesla-scaled.jpg.Le fichier a été compressé de 498.82 KB à 498.82 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:11:48 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2024-08-30 12:11:48 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-08-30 12:11:48 : INFO] - Re_Smush_It_Task - Attachment ID : 32, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:11:48 : INFO] - File: tesla2-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:11:55 : INFO] - Backing up the original image - 2024/08/tesla2-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:12:04 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/tesla2-scaled.jpg.Le fichier a été compressé de 1.03 MB à 1.03 MB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:04 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2024-08-30 12:12:04 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-08-30 12:12:04 : INFO] - Re_Smush_It_Task - Attachment ID : 33, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:12:04 : INFO] - File: wordi.png, Compression quality: 92 
+[2024-08-30 12:12:05 : INFO] - Backing up the original image - 2024/08/wordi-updraft-pre-smush-original.png 
+[2024-08-30 12:12:05 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/wordi.png.Le fichier a été compressé de 67.75 KB à 67.53 KB, en économisant 0.32 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:05 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2024-08-30 12:12:05 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-08-30 12:12:05 : INFO] - Re_Smush_It_Task - Attachment ID : 45, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:12:05 : INFO] - File: agence-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:12:10 : INFO] - Backing up the original image - 2024/08/agence-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:12:17 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/agence-1-scaled.jpg.Le fichier a été compressé de 717.52 KB à 717.52 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:17 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2024-08-30 12:12:17 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-08-30 12:12:17 : INFO] - Re_Smush_It_Task - Attachment ID : 47, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:12:17 : INFO] - File: client-content-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:12:22 : INFO] - Backing up the original image - 2024/08/client-content-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:12:29 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/client-content-1-scaled.jpg.Le fichier a été compressé de 515.79 KB à 515.79 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:29 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2024-08-30 12:12:29 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-08-30 12:12:29 : INFO] - Re_Smush_It_Task - Attachment ID : 50, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:12:29 : INFO] - File: apple-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:12:32 : INFO] - Backing up the original image - 2024/08/apple-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:12:37 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/apple-1-scaled.jpg.Le fichier a été compressé de 205.87 KB à 205.87 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:37 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2024-08-30 12:12:37 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2024-08-30 12:12:37 : INFO] - Re_Smush_It_Task - Attachment ID : 51, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:12:37 : INFO] - File: tesla-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:12:41 : INFO] - Backing up the original image - 2024/08/tesla-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:12:48 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/tesla-1-scaled.jpg.Le fichier a été compressé de 498.82 KB à 498.82 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:48 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2024-08-30 12:12:48 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-08-30 12:12:48 : INFO] - Re_Smush_It_Task - Attachment ID : 53, Started on : August 30, 2024 12:10:11 
+[2024-08-30 12:12:48 : INFO] - File: lvmh-1-scaled.jpg, Compression quality: 92 
+[2024-08-30 12:12:52 : INFO] - Backing up the original image - 2024/08/lvmh-1-scaled-updraft-pre-smush-original.jpg 
+[2024-08-30 12:12:53 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-08-30 12:12:53 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-08-30 12:12:53 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-08-30 12:12:53 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-08-30 12:12:53 : INFO] - Cleaning up tasks of type (smush). A total of 15 tasks will be deleted. 
+[2024-08-30 12:12:59 : INFO] - Successfully optimized the image - C:\Users\Utilisateur\Local Sites\wordi\app\public/wp-content/uploads/2024/08/lvmh-1-scaled.jpg.Le fichier a été compressé de 520.60 KB à 520.60 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-08-30 12:12:59 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2024-08-30 12:12:59 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-08-30 12:12:59 : INFO] - Successfully processed the queue (smush). 16 tasks were processed out of 16. 
+[2024-08-30 12:12:59 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-08-30 12:12:59 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
